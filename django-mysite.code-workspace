@@ -4,5 +4,8 @@
 			"path": "."
 		}
 	],
-	"settings": {}
+	"settings": {
+		"python.pythonPath": "H:\\python\\venv\\django\\Scripts\\python.exe"
+		
+	}
 }
